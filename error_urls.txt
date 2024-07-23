@@ -1,5 +1,5 @@
 https://www.lguplus.com_ujam_26 - Message: unknown error: net::ERR_NAME_NOT_RESOLVED
-  (Session info: chrome-headless-shell=126.0.6478.183)
+  (Session info: chrome=126.0.6478.183)
 Stacktrace:
 	GetHandleVerifier [0x0038C203+27395]
 	(No symbol) [0x00323E04]
